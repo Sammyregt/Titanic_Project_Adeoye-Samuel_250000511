@@ -1,0 +1,11 @@
+Name : Adeoye Samuel V.
+
+Matric Number : 250000511
+
+Machine Learning Algorithm Used : Logistic Regression
+
+Model persistence method used : Joblib
+
+Live URL of the hosted application
+
+GitHub repository link
