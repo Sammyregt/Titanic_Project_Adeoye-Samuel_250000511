@@ -6,6 +6,6 @@ Machine Learning Algorithm Used : Logistic Regression
 
 Model persistence method used : Joblib
 
-Live URL of the hosted application
+Live URL of the hosted application : https://predicting-titantic-survival.onrender.com/
 
-GitHub repository link
+GitHub repository link : https://github.com/Sammyregt/Titanic_Project_Adeoye-Samuel_250000511
